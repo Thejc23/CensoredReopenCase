@@ -1,0 +1,45 @@
+body {
+  background-color: gainsboro;
+}
+
+.container {
+  width: 80%;
+  margin: 50px auto;
+  padding: 15px;
+}
+
+.title {
+  text-align: center;
+}
+
+.wrap {
+  width: 100%;
+  text-align: center;
+}
+
+#caseNumber {
+  height: 50px;
+  width: 300px;
+  color: black;
+  font-size: 24px;
+  font-family: monospace;
+}
+
+#caseButton {
+  height: 50px;
+  width: 200px;
+  color: white;
+  background: green;
+  font-size: 24px;
+  font-family: monospace;
+  border: none;
+  cursor: pointer;
+}
+#openClaro {
+  height: 25px;
+  width: 50px;
+}
+#claroLogo {
+  height: 50px;
+  width: 50px;
+}
